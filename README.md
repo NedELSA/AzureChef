@@ -25,7 +25,7 @@ AzureChef is an innovative, multi-modal AI-powered recipe discovery application 
     - Meal planning recommendations
 ## 🚀 Getting Started
 ### 🛠 Prerequisites
-- Python 3.8+
+- Python 3.10.11
 - Azure Account
 - GitHub Copilot
 ### 📦 Installation
