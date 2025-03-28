@@ -1,0 +1,27 @@
+# Core Python Libraries
+PyPDF2==3.0.1
+uuid==1.30
+re==2.2.1
+os==0.1.1
+
+# AI and Machine Learning
+google-generativeai==0.3.1
+
+# Web Interface
+gradio==4.19.2
+
+# Azure Services
+azure-core==1.29.6
+azure-storage-blob==12.19.0
+azure-search-documents==11.4.0
+azure-cognitiveservices-speech==1.32.1
+
+# API and Networking
+requests==2.31.0
+
+# Optional: For additional data handling
+pandas==2.0.1
+numpy==1.24.3
+
+# Development and Debugging
+traceback==0.3.0
