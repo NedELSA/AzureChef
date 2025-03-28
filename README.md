@@ -50,6 +50,6 @@ AZURE_SPEECH_KEY = "Replace with your actual Azure Speech Service key"
 
 AZURE_SPEECH_REGION = "Replace with your region"
  ```
-
+- Add the data path
 ## 📜 License
 MIT License - see LICENSE for details
